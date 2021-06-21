@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bhavshanks
-- 👀 I’m interested in Web development and Mobile app development
-- 🌱 I’m currently learning Ruby and JavaScript
+- 👀 I’m interested in Web development and Coding
+- 🌱 I’m currently learning PHP, JavaScript and Ruby
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bhavshanks22@gmail.com - my email
 
