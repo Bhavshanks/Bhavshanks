@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bhavshanks
 - 👀 I’m interested in Web development and Coding
-- 🌱 I’m currently learning PHP, JavaScript and Ruby
+- 🌱 I’m currently learning in the field of Data Science and Artificial Intelligence.....
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bhavshanks22@gmail.com - my email
 
